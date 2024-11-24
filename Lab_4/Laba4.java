@@ -1,4 +1,4 @@
-// Гунько Виктория 2 курс 5 группа
+// Гунько Виктория 
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
